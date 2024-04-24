@@ -1,0 +1,30 @@
+{
+  "name": "react-practice",
+  "version": "1.0.0",
+  "description": "start working with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rustytrooper/react-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rustytrooper/react-practice/issues"
+  },
+  "homepage": "https://github.com/rustytrooper/react-practice#readme",
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@types/webpack": "^5.28.5",
+    "html-webpack-plugin": "^5.6.0",
+    "ts-loader": "^9.5.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5",
+    "webpack": "^5.91.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
